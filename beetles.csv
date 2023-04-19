@@ -20,7 +20,7 @@ ID,Group,Sex,date treated,date dead,OrNV detected,Notes
 19,A,M,2023-03-06,2023-04-01,,
 20,A,M,2023-03-06,2023-03-15,,
 21,A,F,2023-03-06,2023-04-15,,
-22,A,F,2023-03-06,,,flow twice in lab during handling on Feb 28th; missing
+22,A,F,2023-03-06,,,flow twice in lab during handling on Feb 28th; missing at end of expt
 23,A,F,2023-03-06,2023-04-17,,
 24,A,F,2023-03-06,2023-03-30,,
 25,A,F,2023-03-06,2023-03-18,,
@@ -28,7 +28,7 @@ ID,Group,Sex,date treated,date dead,OrNV detected,Notes
 27,A,F,2023-03-06,2023-03-13,,
 28,A,F,2023-03-06,2023-03-21,,
 29,B,F,2023-03-06,2023-04-05,,
-30,B,F,2023-03-06,,,missing
+30,B,F,2023-03-06,,,missing at end of expt
 31,B,F,2023-03-06,2023-03-27,,
 32,B,M,2023-03-06,2023-03-21,,
 33,B,F,2023-03-06,2023-03-21,,
@@ -57,7 +57,7 @@ ID,Group,Sex,date treated,date dead,OrNV detected,Notes
 56,B,M,2023-03-06,2023-04-10,,
 57,B,F,2023-03-06,2023-04-17,,
 58,C,M,2023-03-06,2023-03-09,,
-59,C,M,2023-03-06,,,missing
+59,C,M,2023-03-06,,,missing at end of expt
 60,C,M,2023-03-06,,,alive at end of expt
 61,C,F,2023-03-06,2023-04-10,,
 62,C,M,2023-03-06,2023-04-10,,
@@ -78,11 +78,11 @@ ID,Group,Sex,date treated,date dead,OrNV detected,Notes
 77,C,M,2023-03-06,2023-03-13,,
 78,C,M,2023-03-06,2023-03-26,,
 79,C,M,2023-03-06,2023-03-10,,
-80,C,F,2023-03-06,,,missing
-81,C,M,2023-03-06,,,missing
+80,C,F,2023-03-06,,,missing at end of expt
+81,C,M,2023-03-06,,,missing at end of expt
 82,C,F,2023-03-06,2023-03-29,,
 83,C,M,2023-03-06,2023-03-20,,
-84,C,,2023-03-06,,,missing
+84,C,,2023-03-06,,,missing at end of expt
 85,C,F,2023-03-06,2023-04-03,,
 86,C,M,2023-03-06,2023-03-26,,
 87,D,F,2023-03-06,2023-03-30,,
@@ -109,7 +109,7 @@ ID,Group,Sex,date treated,date dead,OrNV detected,Notes
 108,D,F,2023-03-06,2023-03-26,,
 109,D,F,2023-03-06,2023-03-20,,
 110,D,M,2023-03-06,2023-03-01,,
-111,D,M,2023-03-06,,,missing
+111,D,M,2023-03-06,,,missing at end of expt
 112,D,M,2023-03-06,2023-03-27,,
 113,D,F,2023-03-06,2023-03-26,,
 114,D,M,2023-03-06,2023-04-12,,
